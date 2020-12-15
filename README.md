@@ -128,3 +128,5 @@ local time in the Common Log Format (1.3.12, 1.2.7)
 ## $uri
 current URI in request, normalized
 The value of $uri may change during request processing, e.g. when doing internal redirects, or when using index files.
+
+### http://nginx.org/en/docs/http/ngx_http_core_module.html#variables
